@@ -1,0 +1,1 @@
+This is a fun and interactive command-line game where the player guesses a randomly generated number between 1 and 100. The program provides feedback on whether the guess is too high or too low and keeps track of the number of attempts taken to guess the correct number.
